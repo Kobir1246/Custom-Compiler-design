@@ -141,6 +141,6 @@ gcc main.c parser.c symbol_table.c codegen.c scanner_bridge.c -o compiler
 ## 👤 Author
 
 Shahriar Kobir Sabbir
-CSE Graduate | Aspiring Machine Learning Engineer
+CSE Graduate 
 
 ---
